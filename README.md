@@ -1,5 +1,6 @@
 # testfog
 Recurrence Thesis：Color Cast Dependent Image Dehazing
+
 -----------COPYRIGHT NOTICE ENDS WITH THIS LINE------------
 
 Authors : Sobhan Kanti Dhara ; Mayukh Roy ; Debashis Sen ; Prabir Kumar Biswas
